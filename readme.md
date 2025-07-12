@@ -51,7 +51,7 @@ sudo rpi-update
 |---|---|---|---|---|
 |4||**5V**|Yellow||
 |6||**Ground**|Black||
-|12|18|**Duty cycle signal**|Blue|PWM channel #0|
+|12|18|**Duty cycle signal**|Blue|PWM channel #0| <changed for RPI5 to channel #2
 |18|24|**Tachometer signal**|Green|(optional) Any GPIO pin should work|
 |17||**Tachometer pull-up**|Orange|(optional) bridge to "tachometer signal" with a 1k Ω resistor; this is an additional wire, not from the fan|
 
