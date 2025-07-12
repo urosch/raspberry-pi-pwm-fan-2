@@ -134,7 +134,7 @@ ModelMapping MODEL_SYSFS_MAP[] = {
         2,
 
         // GPIO PWM map
-        { {18, 0}, {19, 1}, {12, 2}, {13, 3} },
+        { {12, 0}, {13, 1}, {18, 2}, {19, 3} },
 
         // GPIO map
         {
