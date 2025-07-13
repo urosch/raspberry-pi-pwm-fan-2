@@ -131,7 +131,7 @@ ModelMapping MODEL_SYSFS_MAP[] = {
     // For Raspberry Pi 5 Model B
     {
         // PWM chip #
-        2,
+        0,
 
         // GPIO PWM map
         { {12, 0}, {13, 1}, {18, 2}, {19, 3} },
